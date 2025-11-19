@@ -1,0 +1,5 @@
+{
+  "name": "Koine Reader",
+  "description": "A mobile-first Greek New Testament reader with instant word analysis and KJV parallel text.",
+  "requestFramePermissions": []
+}
